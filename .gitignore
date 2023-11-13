@@ -1,7 +1,6 @@
 /target
 /benches/search-points/target
 /.idea
-/.vscode
 /.devcontainer
 /storage
 /snapshots
@@ -11,3 +10,7 @@
 /static
 *.log
 .qdrant-initialized
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
